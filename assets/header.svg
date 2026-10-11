@@ -7,9 +7,8 @@
     </linearGradient>
     <style>
       .t { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; text-anchor: middle; }
-      .n { font-size: 58px; font-weight: 700; letter-spacing: 1px; fill: #ffffff; animation: f 1.2s ease-out both; }
-      .d { font-size: 21px; font-weight: 500; fill: #F5D76E; animation: f 1.2s 0.4s ease-out both; }
-      @keyframes f { from { opacity: 0; } to { opacity: 1; } }
+      .n { font-size: 58px; font-weight: 700; letter-spacing: 1px; fill: #ffffff; }
+      .d { font-size: 21px; font-weight: 500; fill: #F5D76E; }
     </style>
   </defs>
   <path fill="url(#g)" d="M0 0H1200V200C1050 245 900 170 750 195C600 220 450 250 300 215C180 188 80 205 0 225Z"/>
