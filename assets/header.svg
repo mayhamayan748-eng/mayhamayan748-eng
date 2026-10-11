@@ -1,17 +1,43 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
   <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+    <linearGradient id="g" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1200" y2="0" spreadMethod="reflect">
       <stop offset="0" stop-color="#000000"/>
       <stop offset="0.55" stop-color="#5C4813"/>
       <stop offset="1" stop-color="#D4AF37"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="0 0;-2400 0" dur="14s" repeatCount="indefinite"/>
     </linearGradient>
+    <linearGradient id="s" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F5D76E" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#F5D76E" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#F5D76E" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="sh" x="-10%" y="-40%" width="120%" height="180%">
+      <feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="#000000" flood-opacity="0.65"/>
+    </filter>
+    <clipPath id="c"><use href="#w"/></clipPath>
     <style>
       .t { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; text-anchor: middle; }
       .n { font-size: 58px; font-weight: 700; letter-spacing: 1px; fill: #ffffff; }
-      .d { font-size: 21px; font-weight: 500; fill: #F5D76E; }
+      .d { font-size: 21px; font-weight: 600; fill: #FFF1C1; }
     </style>
   </defs>
-  <path fill="url(#g)" d="M0 0H1200V200C1050 245 900 170 750 195C600 220 450 250 300 215C180 188 80 205 0 225Z"/>
+  <path id="w" fill="url(#g)" d="M0 0H1200V200C1050 245 900 170 750 195C600 220 450 250 300 215C180 188 80 205 0 225Z">
+    <animate attributeName="d" dur="9s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"
+      values="M0 0H1200V200C1050 245 900 170 750 195C600 220 450 250 300 215C180 188 80 205 0 225Z;
+              M0 0H1200V215C1060 190 920 240 760 215C610 190 460 175 310 205C190 228 90 190 0 205Z;
+              M0 0H1200V200C1050 245 900 170 750 195C600 220 450 250 300 215C180 188 80 205 0 225Z"/>
+  </path>
+  <path fill="#D4AF37" fill-opacity="0.18" d="M0 210C150 240 300 180 450 205C600 230 750 245 900 215C1020 192 1110 205 1200 220V232C1100 222 1010 214 900 235C750 262 600 248 450 228C300 208 150 262 0 232Z">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"
+      values="M0 210C150 240 300 180 450 205C600 230 750 245 900 215C1020 192 1110 205 1200 220V232C1100 222 1010 214 900 235C750 262 600 248 450 228C300 208 150 262 0 232Z;
+              M0 222C150 196 300 236 450 216C600 196 750 190 900 222C1020 246 1110 214 1200 205V218C1100 230 1010 258 900 240C750 214 600 220 450 238C300 256 150 220 0 240Z;
+              M0 210C150 240 300 180 450 205C600 230 750 245 900 215C1020 192 1110 205 1200 220V232C1100 222 1010 214 900 235C750 262 600 248 450 228C300 208 150 262 0 232Z"/>
+  </path>
+  <g clip-path="url(#c)"><rect x="-400" y="0" width="400" height="260" fill="url(#s)" transform="skewX(-20)">
+    <animate attributeName="x" values="-400;1700" dur="6s" repeatCount="indefinite"/>
+  </rect></g>
+  <g filter="url(#sh)">
   <text class="t n" x="600" y="112">Mohamad Ayham Ayan</text>
   <text class="t d" x="600" y="156">AI/ML Engineer · Document AI · Computer Vision · LLMs &amp; Agents</text>
+  </g>
 </svg>
