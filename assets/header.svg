@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#000000"/>
+      <stop offset="0.55" stop-color="#5C4813"/>
+      <stop offset="1" stop-color="#D4AF37"/>
+    </linearGradient>
+    <style>
+      .t { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; text-anchor: middle; }
+      .n { font-size: 58px; font-weight: 700; letter-spacing: 1px; fill: #ffffff; animation: f 1.2s ease-out both; }
+      .d { font-size: 21px; font-weight: 500; fill: #F5D76E; animation: f 1.2s 0.4s ease-out both; }
+      @keyframes f { from { opacity: 0; } to { opacity: 1; } }
+    </style>
+  </defs>
+  <path fill="url(#g)" d="M0 0H1200V200C1050 245 900 170 750 195C600 220 450 250 300 215C180 188 80 205 0 225Z"/>
+  <text class="t n" x="600" y="112">Mohamad Ayham Ayan</text>
+  <text class="t d" x="600" y="156">AI/ML Engineer · Document AI · Computer Vision · LLMs &amp; Agents</text>
+</svg>
