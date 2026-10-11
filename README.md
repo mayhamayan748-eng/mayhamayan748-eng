@@ -1,5 +1,3 @@
-# Hi, I'm Ayham 👋
-
 AI/ML Engineer building **production computer vision systems** and **local LLM / RAG pipelines**.
 I turn messy real-world video and documents into reliable, deployable models,
 from data labeling and training to serving on GPU hardware like NVIDIA DGX Spark.
