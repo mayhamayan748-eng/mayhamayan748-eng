@@ -1,20 +1,20 @@
-<!-- Profile README · Mohamad Ayham Ayan · colors: #07111F bg · #2ED8FF cyan · #8C7CFF violet -->
+<!-- Profile README · Mohamad Ayham Ayan · colors: #0A0A0A black · #D4AF37 gold · #F5D76E light gold -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,50:0E7490,100:6D5DF5&height=180&section=header" alt=""/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,55:5C4813,100:D4AF37&height=180&section=header" alt=""/>
 
 <h1>Mohamad Ayham Ayan</h1>
 
 <b>AI/ML Engineer · Document AI · Computer Vision · LLMs & Agents</b>
 
 <a href="https://github.com/mayhamayan748-eng">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=800&color=2ED8FF&center=true&vCenter=true&width=820&height=60&lines=Turning+image-only+Arabic+PDFs+into+typed+JSON;Fine-tuning+Qwen3.5-VL+with+LoRA%2FQLoRA+on+DGX+Spark;Real-time+PPE+monitoring+with+YOLO26+%2B+InsightFace;Multi-agent+LLM+workflows+with+a+human+in+the+loop" alt="Typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=800&color=D4AF37&center=true&vCenter=true&width=820&height=60&lines=Turning+image-only+Arabic+PDFs+into+typed+JSON;Fine-tuning+Qwen3.5-VL+with+LoRA%2FQLoRA+on+DGX+Spark;Real-time+PPE+monitoring+with+YOLO26+%2B+InsightFace;Multi-agent+LLM+workflows+with+a+human+in+the+loop" alt="Typing intro"/>
 </a>
 
 <p>
-<a href="https://www.linkedin.com/in/ayham-ayan-02bba1203"><img src="https://img.shields.io/badge/LinkedIn-ayham--ayan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=07111F" alt="LinkedIn"/></a>
-<a href="mailto:mayhamayan748@gmail.com"><img src="https://img.shields.io/badge/Email-mayhamayan748%40gmail.com-2ED8FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=07111F" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/ayham-ayan-02bba1203"><img src="https://img.shields.io/badge/LinkedIn-ayham--ayan-D4AF37?style=for-the-badge&logo=linkedin&logoColor=D4AF37&labelColor=0A0A0A" alt="LinkedIn"/></a>
+<a href="mailto:mayhamayan748@gmail.com"><img src="https://img.shields.io/badge/Email-mayhamayan748%40gmail.com-B8860B?style=for-the-badge&logo=gmail&logoColor=D4AF37&labelColor=0A0A0A" alt="Email"/></a>
 </p>
 
 </div>
@@ -73,6 +73,7 @@ Turns image-only Arabic PDFs into typed, section-structured JSON, and closes the
 - 🧪 Per-field evaluation (DocScore, straight-through-processing rate, critical-field pass rate) in W&B; 8 Docker services, 52 API paths, **1,130 tests**
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#0A0A0A','primaryTextColor':'#F5D76E','primaryBorderColor':'#D4AF37','lineColor':'#D4AF37','edgeLabelBackground':'#1A1408','fontFamily':'monospace'}}}%%
 flowchart LR
   P["Image-only PDF"] --> C["Classify pages<br/>OpenCV · CPU only"]
   C --> R["Cheapest-first<br/>field routing"]
@@ -263,9 +264,9 @@ class Ayham(AIEngineer):
 
 Interested in **AI/ML engineering**, **Document AI** and **computer vision** roles
 
-<a href="https://www.linkedin.com/in/ayham-ayan-02bba1203"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:mayhamayan748@gmail.com"><img src="https://img.shields.io/badge/Send_an_email-0E7490?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/ayham-ayan-02bba1203"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-D4AF37?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/></a>
+<a href="mailto:mayhamayan748@gmail.com"><img src="https://img.shields.io/badge/Send_an_email-B8860B?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/></a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D5DF5,55:0E7490,100:07111F&height=120&section=footer" alt=""/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,45:5C4813,100:000000&height=120&section=footer" alt=""/>
 
 </div>
