@@ -2,11 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,55:5C4813,100:D4AF37&height=180&section=header" alt=""/>
-
-<h1>Mohamad Ayham Ayan</h1>
-
-<b>AI/ML Engineer · Document AI · Computer Vision · LLMs & Agents</b>
+<img width="100%" src="assets/header.svg" alt="Mohamad Ayham Ayan · AI/ML Engineer · Document AI · Computer Vision · LLMs & Agents"/>
 
 <a href="https://github.com/mayhamayan748-eng">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=800&color=D4AF37&center=true&vCenter=true&width=820&height=60&lines=Turning+image-only+Arabic+PDFs+into+typed+JSON;Fine-tuning+Qwen3.5-VL+with+LoRA%2FQLoRA+on+DGX+Spark;Real-time+PPE+monitoring+with+YOLO26+%2B+InsightFace;Multi-agent+LLM+workflows+with+a+human+in+the+loop" alt="Typing intro"/>
