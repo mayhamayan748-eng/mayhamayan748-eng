@@ -11,6 +11,8 @@
 <p>
 <a href="https://www.linkedin.com/in/ayham-ayan-02bba1203"><img src="https://img.shields.io/badge/LinkedIn-ayham--ayan-D4AF37?style=for-the-badge&logo=linkedin&logoColor=D4AF37&labelColor=0A0A0A" alt="LinkedIn"/></a>
 <a href="mailto:mayhamayan748@gmail.com"><img src="https://img.shields.io/badge/Email-mayhamayan748%40gmail.com-B8860B?style=for-the-badge&logo=gmail&logoColor=D4AF37&labelColor=0A0A0A" alt="Email"/></a>
+<a href="https://mayhamayan748-eng.github.io/"><img src="https://img.shields.io/badge/Portfolio-Live_site-F5D76E?style=for-the-badge&logo=githubpages&logoColor=D4AF37&labelColor=0A0A0A" alt="Portfolio"/></a>
+<a href="https://mayhamayan748-eng.github.io/ar/"><img src="https://img.shields.io/badge/Portfolio-Arabic_version-D4AF37?style=for-the-badge&logo=googletranslate&logoColor=D4AF37&labelColor=0A0A0A" alt="Portfolio in Arabic"/></a>
 </p>
 
 </div>
@@ -262,6 +264,7 @@ Interested in **AI/ML engineering**, **Document AI** and **computer vision** rol
 
 <a href="https://www.linkedin.com/in/ayham-ayan-02bba1203"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-D4AF37?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/></a>
 <a href="mailto:mayhamayan748@gmail.com"><img src="https://img.shields.io/badge/Send_an_email-B8860B?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/></a>
+<a href="https://mayhamayan748-eng.github.io/"><img src="https://img.shields.io/badge/Visit_portfolio-F5D76E?style=for-the-badge&logo=githubpages&logoColor=black" alt="Portfolio"/></a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,45:5C4813,100:000000&height=120&section=footer" alt=""/>
 
